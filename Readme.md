@@ -7,7 +7,7 @@ Advice Generator is a simple tool for generating random pieces of advice. It ret
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
 ![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
-This is a .NET Wrapper for the [APIVerve.API.AdviceGenerator API](https://apiverve.com/marketplace/api/advice)
+This is a .NET Wrapper for the [APIVerve.API.AdviceGenerator API](https://apiverve.com/marketplace/advice)
 
 ---
 
@@ -33,7 +33,7 @@ From within Visual Studio:
 1. Open the Solution Explorer
 2. Right-click on a project within your solution
 3. Click on Manage NuGet Packages
-4. Click on the Browse tab and search for "APIVerve.API.AdviceGenerator".
+4. Click on the Browse tab and search for "APIVerve.API.AdviceGenerator"
 5. Click on the APIVerve.API.AdviceGenerator package, select the appropriate version in the right-tab and click Install
 
 ---
@@ -90,7 +90,7 @@ class Program
 
 ## Usage
 
-The APIVerve.API.AdviceGenerator API documentation is found here: [https://docs.apiverve.com/api/advice](https://docs.apiverve.com/ref/advice).
+The APIVerve.API.AdviceGenerator API documentation is found here: [https://docs.apiverve.com/ref/advice](https://docs.apiverve.com/ref/advice).
 You can find parameters, example responses, and status codes documented here.
 
 ### Setup
